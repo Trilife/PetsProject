@@ -430,7 +430,6 @@ public class EditorActivity extends AppCompatActivity implements
             }
         });
 
-
         // Create and show the AlertDialog
         AlertDialog alertDialog = builder.create();
         alertDialog.show();
